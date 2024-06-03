@@ -15,5 +15,5 @@ Estructura del Proyecto
 
 # El proyecto está estructurado en dos clases principales:
 
--Tarea: Representa una tarea individual con atributos como nombre, descripción, fecha de vencimiento, prioridad y estado de completado.
+-Tarea: Representa una tarea individual con atributos como nombre, descripción, fecha de vencimiento, prioridad y estado de completado.                                                                                
 -ListaTareas: Maneja una colección de objetos Tarea y proporciona métodos para agregar, editar, marcar como completadas y eliminar tareas, así como para mostrar tareas pendientes y filtrar tareas por prioridad.

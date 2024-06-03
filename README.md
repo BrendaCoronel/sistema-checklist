@@ -3,13 +3,13 @@ Este proyecto tiene como objetivo desarrollar una aplicación de lista de tareas
 # User_Stories
 https://chatgpt.com/share/c418116e-e161-47b0-ad81-bf41b864422a?oai-dm=1
 # Funcionalidades Principales
--Crear Tareas: Los usuarios pueden agregar nuevas tareas a su lista de pendientes.
--Editar Tareas: Posibilidad de modificar la descripción de una tarea existente.
--Marcar Tareas como Completadas: Permite a los usuarios marcar las tareas que ya han sido realizadas.
--Eliminar Tareas: Opción para eliminar tareas que ya no son necesarias.
--Ver Tareas Pendientes: Visualización de todas las tareas que aún no han sido completadas.
--Filtrar Tareas por Prioridad: Capacidad de filtrar tareas según su nivel de prioridad.
--Buscar Tareas: Funcionalidad de búsqueda para encontrar tareas específicas por nombre o descripción.
+-Crear Tareas: Los usuarios pueden agregar nuevas tareas a su lista de pendientes.                                                                                                                              
+-Editar Tareas: Posibilidad de modificar la descripción de una tarea existente.                                                                                                                                 
+-Marcar Tareas como Completadas: Permite a los usuarios marcar las tareas que ya han sido realizadas.                                                                                                                
+-Eliminar Tareas: Opción para eliminar tareas que ya no son necesarias.                                                                                                                                                
+-Ver Tareas Pendientes: Visualización de todas las tareas que aún no han sido completadas.                                                                                                                     
+-Filtrar Tareas por Prioridad: Capacidad de filtrar tareas según su nivel de prioridad.                                                                                                                             
+-Buscar Tareas: Funcionalidad de búsqueda para encontrar tareas específicas por nombre o descripción.                                                                                                            
 -Organización por Categorías: Permite crear listas de tareas separadas para diferentes contextos (trabajo, hogar, estudio, etc.).
 Estructura del Proyecto
 

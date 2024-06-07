@@ -17,3 +17,6 @@ Estructura del Proyecto
 
 -Tarea: Representa una tarea individual con atributos como nombre, descripción, fecha de vencimiento, prioridad y estado de completado.                                                                                
 -ListaTareas: Maneja una colección de objetos Tarea y proporciona métodos para agregar, editar, marcar como completadas y eliminar tareas, así como para mostrar tareas pendientes y filtrar tareas por prioridad.
+
+# Integrantes del Grupo:
+-Brenda Coronel

@@ -20,3 +20,4 @@ Estructura del Proyecto
 
 # Integrantes del Grupo:
 -Brenda Coronel
+Iris de Dominicis

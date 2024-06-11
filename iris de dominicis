@@ -1,0 +1,12 @@
+from datetime import datetime
+
+class Tarea:
+    def __init__(self, nombre, descripcion, fecha_vencimiento=None, prioridad=1):
+        # Validación de otros campos
+        if fecha_vencimiento:
+            try:
+                self.fecha_vencimiento = datetime.strptime(fecha_vencimiento, '%Y-%m-%d')
+            except ValueError:
+                raise ValueError("Formato de fecha incorrecto. Use YYYY-MM-DD.")
+        else:
+            self.fecha_vencimiento = None
